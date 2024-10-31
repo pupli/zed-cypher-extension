@@ -1,1 +1,1 @@
-# zed-cypher-extension
+# zed-cypher-extension-2
